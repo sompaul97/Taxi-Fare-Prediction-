@@ -1,2 +1,2 @@
-# Taxi-Fare-Prediction-
+# Taxi-Fare-Prediction
 DataCamp Guided Project
